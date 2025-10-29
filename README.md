@@ -1,5 +1,5 @@
-## Ejercicio 14 - Edición de Elementos de la Interfaz Gráfica
-📋 
+## Ejercicio 14 
+### Edición de Elementos de la Interfaz Gráfica 📋 
 
 ### Descripción
 Este proyecto es una mejora visual y funcional de la aplicación de registro de empleados desarrollada en el Ejercicio 13. Se han implementado mejoras en el diseño de la interfaz gráfica, añadido nuevas funcionalidades y mantenido la conexión segura con la base de datos MySQL.
