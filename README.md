@@ -7,7 +7,7 @@ Este proyecto es una mejora visual y funcional de la aplicación de registro de 
 
 ## ✨ Nuevas Características
 
-## 🎨 Mejoras Visuales
+### 🎨 Mejoras Visuales
 Imagen de fondo en la interfaz principal
 
 Botones con colores diferenciados por función
