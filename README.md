@@ -37,3 +37,45 @@ PIL/Pillow (Manejo de imágenes)
 CSV (Exportación de datos)
 
 Random (Movimiento aleatorio)
+
+📊 Funcionalidades de Base de Datos
+Conexión Segura: Usando parámetros preparados
+
+Exportación CSV: Botón "Hackear" genera archivo empleados_exportados.csv
+
+Gestión Completa: CRUD completo de empleados
+
+# 🎯 Características Destacadas
+
+##🎨 Diseño Visual Mejorado
+Paleta de colores moderna y atractiva
+
+Efectos visuales interactivos
+
+Tipografía temática pixel art
+
+### 🕹️ Interactividad
+
+Botones con efectos hover
+
+Botón "Cerrar" con movimiento aleatorio
+
+Ventanas emergentes con animaciones
+
+### 📁 Modularidad
+
+Código organizado en clases y métodos
+
+Separación clara de responsabilidades
+
+Fácil mantenimiento y extensión
+
+### 📝 Notas Adicionales
+
+La aplicación mantiene completa compatibilidad con la versión anterior
+
+Todas las funcionalidades originales están preservadas
+
+Mejoras implementadas sin afectar el núcleo funcional
+
+Código documentado y comentado para fácil comprensión
