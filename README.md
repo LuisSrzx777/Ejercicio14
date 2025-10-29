@@ -1,3 +1,4 @@
+<img width="1600" height="900" alt="Captura de pantalla (36)" src="https://github.com/user-attachments/assets/dd12eb25-98eb-47be-acd8-ec14ab91ef5c" />
 ## Ejercicio 14 
 ### Edición de Elementos de la Interfaz Gráfica 📋 
 
